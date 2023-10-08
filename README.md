@@ -3,7 +3,7 @@
 Oiiii,me chamo nicolas,tenho 15 anos e sou apaixonado na área de tecnologia.
 <br>
 <br>
-Comecei a pouco tempo estudar programação,mass espero em um futuro não muito distante poder trabalhar com o que eu sei e gosto.
+Comecei a pouco tempo estudar programação,mas espero em um futuro não muito distante poder trabalhar com o que eu sei e gosto.
 <br>
 <br>
 Hoje eu sei as linguagens de:
