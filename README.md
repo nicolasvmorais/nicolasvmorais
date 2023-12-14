@@ -6,7 +6,7 @@ Oiiii,me chamo nicolas,tenho 15 anos e sou apaixonado na área de tecnologia :re
 Comecei a pouco tempo estudar programação,mas espero em um futuro não muito distante poder trabalhar com o que eu sei e gosto :wink:
 <br>
 <br>
-Hoje eu sei as linguagens de: :computer:
+Hoje eu sei as linguagens de:
 
 <ul>
 <li><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"></li>
