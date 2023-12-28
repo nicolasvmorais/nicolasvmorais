@@ -1,52 +1,32 @@
-### Hi there 👋
+### Olá, Mundo! 👋
 
-Oiiii,me chamo nicolas,tenho 15 anos e sou apaixonado na área de tecnologia :relaxed:
-<br>
-<br>
-Comecei a pouco tempo estudar programação,mas espero em um futuro não muito distante poder trabalhar com o que eu sei e gosto :wink:
-<br>
-<br>
-Hoje eu sei as linguagens de:
+Me chamo Nicolas, tenho 16 anos e sou um entusiasta apaixonado pela área de tecnologia! :computer:
 
-<ul>
-<li><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"></li>
- <li><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"> </li>
-</ul>
-<br>
-<br>
-Daqui a pouco estarei aprendendo JavaScript e outras linguagens.
-Agradeço a todos que tiveram a atenção de ler o que eu escrevi
+### 💡 Minha Jornada Tecnológica:
 
-Me contatem no:
-<br>
-<br>
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram-logo"> <a href="https://www.instagram.com/nicolasvmoraiss/">Instagram
-<br>
+Comecei recentemente a explorar o universo da programação e já domino as linguagens:
 
-<br>
+- HTML ![HTML Logo](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+- CSS ![CSS Logo](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+- JavaScript ![JavaScript Logo](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<br>
+Atualmente, estou aprimorando minhas habilidades em JavaScript e me preparando para mergulhar no emocionante mundo do:
 
-<br>
+- React ![React Logo](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+- Node.js ![Node.js Logo](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
+### 🚀 O Futuro:
 
+Meu objetivo é [Incluir seus objetivos aqui, por exemplo: criar aplicações web dinâmicas, contribuir para projetos de código aberto usando React e Node.js, etc.].
 
+### 🛠️ Projetos Em Andamento:
+
+[Inclua aqui qualquer projeto do qual você esteja participando ou planejando iniciar.]
+
+### 📱 Vamos Conectar?
+
+- Instagram: [nicolasvmoraiss](https://www.instagram.com/nicolasvmoraiss/)
+
+### 📊 Estatísticas do GitHub:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasvmorais)](https://github.com/anuraghazra/github-readme-stats)
-          
-          
-
-<!--
-**nicolasvmorais/nicolasvmorais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
